@@ -11,3 +11,5 @@ git push -u origin <branchname>
 after any changes if the file doesn't push to branch 
 
 git push --force origin <branchname>
+
+changes did on github to perform pull operation
