@@ -1,0 +1,10 @@
+git init 
+git remote add origin <repo link>
+git add . (to all files)
+git add file.txt (for specific file)
+git add *".txt" (all txt files)
+git checkout -b <brnachname> (create and switch to branch)
+git status (to now the status)
+git log ( to know the commoit logs)
+git commit -m "first commit"
+git push -u origin <branchname>
